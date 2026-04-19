@@ -28,6 +28,8 @@ Based on [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andre
 
 Plus baseline rules for simplicity (§2), surgical diffs (§3), and goal-driven loops (§4) — to keep the assistant from over-building and over-editing even when the per-task output is technically "valid."
 
+For the human reader: see [GAPS.md](GAPS.md) for a plain-language walk-through of each of the twelve gaps — what each one looks like in practice, why reviewers miss it, and (where formal studies exist) primary sources to validate the claim. One corner — the "robust/scalable" adjective-hedge pattern under §7 — is labelled explicitly as a practitioner observation without a formal study, rather than dressed up with a borrowed citation.
+
 ## Usage
 
 **Per project:**
